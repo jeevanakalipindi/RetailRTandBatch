@@ -1,6 +1,6 @@
 ### Summary:
    `
-    Working on Retail and Hospitality domain and seeing many recurring issues on same problem drove me to design a better and performance efficient way to transfer data from and ERP to store or any Ecommerce application which includes faster XML/SAP/Raw file to JSON 
+    Working on Retail,Hospitality domain and seeing many recurring issues on same problem drove me to design a better and performance efficient way to transfer data from and ERP to store or any Ecommerce application which includes faster XML/SAP/Raw file to JSON 
 using hadoop map reduce. This design also use features of new NIO2 which is a well proven implementation for java asynchronous calls that uses call back for P2P messaging
    `
    
